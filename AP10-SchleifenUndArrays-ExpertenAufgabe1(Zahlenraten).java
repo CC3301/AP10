@@ -32,10 +32,6 @@ public class ratespiel {
 				
 				System.out.println("Du hast die Zahl mit " + versuche + " Versuchen erraten!");
 				
-			} else {
-				
-				System.out.println("test");
-				
 			}
 		}
 	}
